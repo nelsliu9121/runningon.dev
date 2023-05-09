@@ -5,7 +5,7 @@ import Footer from '@/components/common/footer';
 export default component$(() => {
   return (
     <>
-      <main>
+      <main class="mb-16 xl:mb-0">
         <Slot />
       </main>
       <Footer />

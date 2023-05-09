@@ -39,5 +39,8 @@
     "vite": "4.3.3",
     "vite-tsconfig-paths": "4.2.0",
     "wrangler": "latest"
+  },
+  "dependencies": {
+    "@xata.io/screenshot": "^1.0.0"
   }
 }

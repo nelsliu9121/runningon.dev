@@ -8,6 +8,9 @@ module.exports = {
         dark: "rgb(33, 42, 62)",
         navy: "rgb(57, 72, 103)",
         grey: "rgb(155, 164, 181)"
+      },
+      borderWidth: {
+        "1": "1px"
       }
     },
   },
